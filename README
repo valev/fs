@@ -1,1 +1,3 @@
 fs is simple fileserver written in Go.
+
+Configuration is in the source file.
